@@ -1,17 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Burg
-==================================================================================================================================
-
-Learning Computer Scientist and Game Developer
-----------------------------------------------
-
-At the moment I am still a High School student with a passion for Programming. At school, they don't teach any form of programming so at the moment everything I know is self-taught. I am very interested in Computer Science but at the moment Game Development is more enjoyable for me. After High School, I want to do a 4 year Game Development course and after that a 3 year Computer Science course.
-
-* 🌍  I'm based in the Netherlands
-* ✉️  You can contact me at [david.er.burg@gmail.com](mailto:david.er.burg@gmail.com)
-* 🚀  I'm currently working on [a Chess Engine](http://github.com/DavidERBB/DB-Bot)
-* 🧠  I'm learning C++
-* 🤝  I'm open to collaborating on any Programming projects
-
 ### Skills
 
 
